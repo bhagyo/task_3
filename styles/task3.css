@@ -1,0 +1,73 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+section {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+.section-div {
+    background-color: #FCEAE9;
+    width: 1600px;
+    height: 450px;
+    margin-top: 100px;
+    border-radius: 10px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.text1 {
+    font-size: 60px;
+    font-weight: 450;
+    margin-bottom: 0px;
+
+}
+
+.text-input {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+
+
+.text2 {
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+.btn-class {
+    background-color: #FF3A87;
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 15px 30px;
+}
+
+.email-input {
+    padding: 12px;
+    width: 570px;
+    border-radius: 2px;
+    font-size: 20px;
+    border-color: #FCEAE9;
+    /* 
+    After mouse click then why some change */
+
+}
+
+
+footer {
+
+    text-align: center;
+}
